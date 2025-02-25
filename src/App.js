@@ -143,7 +143,7 @@ class App extends Component {
                                         </Button>
                                         </span>
                                     </ListGroup.Item>
-                                  </div>
+                                  </div> 
                                 );
                             })}
                         </ListGroup>
